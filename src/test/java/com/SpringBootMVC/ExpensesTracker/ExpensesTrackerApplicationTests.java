@@ -11,4 +11,8 @@ class ExpensesTrackerApplicationTests {
 	}
 
 }
-//
+
+/* 
+   This is a multi-line comment.
+   It spans across several lines.
+*/
